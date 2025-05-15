@@ -51,7 +51,7 @@ body {
 .gallery h2 {
     margin-bottom: 20px;
 }
-
+/* Imágenes agrupadas en filas */
 /* Imágenes agrupadas en filas */
 .flexible {
     display: flex;
